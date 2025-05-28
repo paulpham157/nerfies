@@ -4,7 +4,7 @@ gin-config @ git+https://github.com/google/gin-config@243ba87b3fcfeb2efb4a920b8f
 imageio==2.9.0
 immutabledict==2.2.0
 jax==0.2.20
-numpy==1.19.5
+numpy==1.22.0
 opencv-python==4.5.3.56
 Pillow==8.3.2
 scikit-image==0.18.3
